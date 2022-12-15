@@ -1,0 +1,1 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/makeitcloudy/devops/tree/circleci-project-setup.svg?style=svg&circle-token=88a9c09964d888d77eedd0d7019e74d1eedb7557)](https://dl.circleci.com/status-badge/redirect/gh/makeitcloudy/devops/tree/circleci-project-setup)
